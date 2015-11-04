@@ -1,0 +1,25 @@
+{
+  "name": "PodDemoTwo",
+  "version": "0.1.0",
+  "summary": "A short description of PodDemoTwo.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PodDemoTwo",
+  "license": "MIT",
+  "authors": {
+    "467504109@qq.com": "467504109@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PodDemoTwo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PodDemoTwo": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
